@@ -1,0 +1,21 @@
+//Create web server
+const express = require('express');
+const app = express();
+const port = 3000;
+const bodyParser = require('body-parser');
+const fs = require('fs');
+const path = require('path');
+const { exec } = require('child_process');
+const { Console } = require('console');
+const { request } = require('http');
+const { response } = require('express');
+const { type } = require('os');
+const { parse } = require('path');
+const { userInfo } = require('os');
+const { send } = require('process');
+const { send } = require('process');
+const { send } = require('process');
+const { send } = require('process');
+const { send } = require('process');
+const { send } = require('process');
+const { send } = require('process');
